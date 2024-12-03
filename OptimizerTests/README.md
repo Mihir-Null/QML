@@ -38,7 +38,7 @@
       A QAOA Ansatz with p \= 2 layers was used. This was transpiled to a simulated version of the IBM washington quantum computer.  
       **Loss function:**  
       The cost is computed by simply taking the expectation value of the hamiltonian which is done by measuring out the n bit string Z=Z₁Z₂… Zn , Zᴋ∈ {0,1}ⁿ and m clauses and the aim is to maximize a given objective/cost function C=∑Cᴋ(z) where the summation goes from ᴋ=1 to m and Cᴍ ∈{0,1}  
-      ![][image3]  
+      With C|z> = ∑ Cᴊᴋ(z)|z> = C(z)|z>  
       And Cᴊᴋ|z\> \= 1/2(-gⱼ⊗ gᴋ \+ I)|z\> (for j and k being any two nodes/qubits)  
       such that if there is a cut then gⱼ⊗ gᴋ \=-I and zj and zk are both |0\> or |1\> if there is no cut then we have gⱼ⊗ gᴋ \= I , they belong to different qubits. Thus we get either |z\> or 0 correspondingly.  
       Essentially we sum up the number of edges “cut” (any two edges with nodes in opposite partitions)  
