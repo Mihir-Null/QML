@@ -111,7 +111,8 @@ While this result is a decent test of hybrid optimization, barren plateau proble
 * Ceroni, Jack. “Intro to QAOA.” *PennyLane Demos*, Xanadu, 18 Nov. 2020, pennylane.ai/qml/demos/tutorial\_qaoa\_intro.   
 * Lockwood, Owen. “An Empirical Review of Optimization Techniques for Quantum Variational Circuits.” *ArXiv.org*, 9 Feb. 2022, [arxiv.org/abs/2202.01389](http://arxiv.org/abs/2202.01389).  
 *    “Qiskit Algorithms (Qiskit\_algorithms) \- Qiskit Algorithms 0.3.1.” *Qiskit*, 2017, [qiskit-community.github.io/qiskit-algorithms/apidocs/qiskit\_algorithms.html](http://qiskit-community.github.io/qiskit-algorithms/apidocs/qiskit_algorithms.html).  
-* Simon Blanke. “GitHub \-Gradient-Free-Optimizers.” *GitHub*, 14 Aug. 2024, github.com/SimonBlanke/Gradient-Free-Optimizers. 
+* Simon Blanke. “GitHub \-Gradient-Free-Optimizers.” *GitHub*, 14 Aug. 2024, github.com/SimonBlanke/Gradient-Free-Optimizers.
+* IBM. https://learning.quantum.ibm.com/tutorial/quantum-approximate-optimization-algorithm
 
 [image1]: ./images/image1.png
 [image2]: ./images/image2.png
